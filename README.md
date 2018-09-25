@@ -2,6 +2,7 @@
 A CLI tool to adjust AMOLED display brightness under XServer.
 
 Tested: Samsung Galaxy Book 12
+
 Should work with (Not Tested): Samsung Galaxy TabPro S
 
 usage: Build with 
